@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a71cdc017bc84654680e121b43a558e5
+timeCreated: 1483968064
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BigNoodleToo
+  fontNames:
+  - BigNoodleToo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
